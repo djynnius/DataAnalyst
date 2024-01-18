@@ -5,4 +5,5 @@
 - Create a free account on [Posit.Cloud](https://posit.cloud)
 - Create a free account on [Tableau Public](https://public.tableau.com)
 
-## See you on Thursday!
+## Cool group to join online
+- [Posit Data Science meetup](https://zoom.us/j/97420354693)
