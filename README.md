@@ -7,3 +7,8 @@
 
 ## Cool group to join online
 - [Posit Data Science meetup](https://zoom.us/j/97420354693)
+
+```mermaid
+flowchart TB
+A[foo] --> B[Bar]
+```
